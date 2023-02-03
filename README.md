@@ -11,7 +11,7 @@
 + Project 6: [Project name and brief description]
 
 #### Getting Started
-Clone the repository to your local machine: git clone https://github.com/belal271/ai-course-projects.git
+Clone the repository to your local machine: git clone https://github.com/belal271/ML-projects.git
 Navigate to the project directory: cd ai-course-projects
 Open the project in your preferred development environment
 #### Requirements
