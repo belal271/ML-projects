@@ -3,9 +3,9 @@
 
 #### Project List 
 
-+ Project 1: [Project name and brief description] 
-+ Project 2: [Project name and brief description]
-+ Project 3: [Project name and brief description]
++ Project 1: Opne CV Face Detection 
++ Project 2: Breast cancer diagnosis
++ Project 3: twitter Sentiment Analysis
 + Project 4: [Project name and brief description]
 + Project 5: [Project name and brief description]
 + Project 6: [Project name and brief description]
