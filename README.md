@@ -6,7 +6,7 @@
 + Project 1: Opne CV Face Detection 
 + Project 2: Breast cancer diagnosis
 + Project 3: twitter Sentiment Analysis
-+ Project 4: [Project name and brief description]
++ Project 4: Transfer Learning
 + Project 5: [Project name and brief description]
 + Project 6: [Project name and brief description]
 
