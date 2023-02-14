@@ -7,8 +7,8 @@
 + Project 2: Breast cancer diagnosis
 + Project 3: twitter Sentiment Analysis
 + Project 4: Transfer Learning
-+ Project 5: [Project name and brief description]
-+ Project 6: [Project name and brief description]
++ Project 5: Emotion Detection
++ Project 6: Instagram Scrapper
 
 #### Getting Started
 Clone the repository to your local machine: git clone https://github.com/belal271/ML-projects.git
